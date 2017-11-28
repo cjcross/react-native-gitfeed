@@ -1,4 +1,6 @@
 # Github Feed
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcjcross%2Freact-native-gitfeed.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcjcross%2Freact-native-gitfeed?ref=badge_shield)
+
 ---
 Yet another Github client written in react-native.
 
@@ -70,3 +72,7 @@ code-push deployment ls GitFeed-iOS
 
 发布更新：
 code-push release GitFeed-iOS ~/Desktop/release 1.0.0 -d Production
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcjcross%2Freact-native-gitfeed.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcjcross%2Freact-native-gitfeed?ref=badge_large)
